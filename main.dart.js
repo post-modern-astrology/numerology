@@ -32187,7 +32187,7 @@ var $async$vC=A.q(function(a,b){if(a===1)return A.t(b,r)
 while(true)switch(s){case 0:if($.a6==null)A.aBo()
 $.a6.toString
 s=2
-return A.p($.aR_().Fn(0,".env"),$async$vC)
+return A.p($.aR_().Fn(0,"env.txt"),$async$vC)
 case 2:q=$.aR_().ga2p().i(0,"SUPABASE_URL")
 q.toString
 p=$.aR_().ga2p().i(0,"SUPABASE_ANON_KEY")
